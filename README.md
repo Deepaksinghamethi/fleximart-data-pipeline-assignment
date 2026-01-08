@@ -16,3 +16,4 @@ Raw CSV files are cleaned, transformed, and loaded into a relational database.
 - Pandas
 - MySQL / PostgreSQL
 # fleximart-data-pipeline-assignment
+- Part 2: MongoDB analysis and operations implemented in /nosql
