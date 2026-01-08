@@ -1,0 +1,45 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Samsung Galaxy S21",
+    "category": "Electronics",
+    "price": 79999,
+    "stock": 150,
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB"
+    },
+    "reviews": [
+      { "user": "U001", "rating": 5, "comment": "Great!", "date": "2024-01-15" },
+      { "user": "U002", "rating": 4, "comment": "Good phone", "date": "2024-02-01" }
+    ]
+  },
+  {
+    "product_id": "ELEC002",
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 300,
+    "specs": {
+      "battery": "20h",
+      "type": "Wireless"
+    },
+    "reviews": [
+      { "user": "U003", "rating": 4, "comment": "Nice sound", "date": "2024-03-10" }
+    ]
+  },
+  {
+    "product_id": "FASH001",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 4999,
+    "stock": 120,
+    "specs": {
+      "size": "9",
+      "color": "Black"
+    },
+    "reviews": [
+      { "user": "U004", "rating": 5, "comment": "Very comfortable", "date": "2024-01-20" }
+    ]
+  }
+]
